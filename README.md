@@ -4,7 +4,7 @@ the analysis was done  using excel and it includes data cleaning, pivot table  a
 
 
 ## Files in This Repository
-- **Amazon case study project dashboard* → Contains: -Cleaned Data
+- *Amazon case study project dashboard*  Contains: - Cleaned Data
 - Pivot Table Q&A (14 questions answered)
 - Dashboard
 - *![Dashboard Screenshot](IMG_20250803_230104.jpg)*

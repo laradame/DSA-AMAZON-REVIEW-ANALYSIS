@@ -7,7 +7,8 @@ the analysis was done  using excel and it includes data cleaning, pivot table  a
 - **Amazon case study project dashboard* → Contains: -Cleaned Data
 - Pivot Table Q&A (14 questions answered)
 - Dashboard
-- *![Dashboard Screenshot](IMG_20250803_230104.jpg)* → A preview image of the dashboard.
+- *![Dashboard Screenshot](IMG_20250803_230104.jpg)*
+-  A preview image of the dashboard.
 
 
 
@@ -50,8 +51,8 @@ The Q&A Analysis sheet in the Excel file answers:
 
 
 ##  How to Use
-1. Download Amazon_Review_Analysis.xlsx.
+1. Download Amazon case study project dashboard.xlsx.
 2. Open in Excel.
-3. Navigate between the *AMAZON Data, **PIVOT TABLES Q&A Analysis, and **DASHBOARD * sheet.
+3. Navigate between the *AMAZON DATA, **PIVOT TABLES Q&A Analysis, and **DASHBOARD * sheet.
 4. Use slicers to interact with the dashboard.
 
